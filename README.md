@@ -13,5 +13,5 @@ Where:
 - ℎ𝑖 → is the *opinion holder*
 - 𝑡𝑙 → is the *time* when the opinion is expressed
 
-API are available on [a link] (https://rapidapi.com/DSupertramp/api/opinion-mining)
+API are available on https://rapidapi.com/DSupertramp/api/opinion-mining
 
