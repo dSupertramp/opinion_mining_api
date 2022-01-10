@@ -1,5 +1,4 @@
 # opinion_mining_api
-
 API that can extract the quintuple of an **opinion**:
 
 An opinion is defined as:
